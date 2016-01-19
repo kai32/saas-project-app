@@ -5,6 +5,7 @@ gem 'milia'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-datepicker-rails'
+gem 'aws-sdk'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
